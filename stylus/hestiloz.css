@@ -1,5 +1,18 @@
 body{
-    color: rgb(226, 226, 31);
+    color: red;
     text-align:right;
     font-family: "Helvetica";
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width: 80%;
+    padding: 0.5em;
+    text-align: left;
+    border: 1px solid #333;
+    margin: 0 initial;
+}
+#container h1{
+    font-size: 20px;
 }
