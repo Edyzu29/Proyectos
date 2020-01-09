@@ -6,6 +6,18 @@ body{
     margin: 0;
     padding: 0;
 }
+#cabecera{
+    background: peru;
+    color: pink;
+    font-weight: bold;
+    margin: 0;
+    padding: 1em;
+}
+#cabecera #tagline{
+    margin:0 0 0 0;
+    font-weight: normal;
+    font-weight: 0.5em;
+}
 #container{
     width: 80%;
     padding: 0.5em;
